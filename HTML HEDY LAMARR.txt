@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hedy Lamarr: Actress & Inventor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 2rem;
+        }
+        h1, h2, h3 {
+            line-height: 1.2;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        h2 {
+            font-size: 2rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        h3 {
+            font-size: 1.5rem;
+            margin-top: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        p {
+            margin-bottom: 1rem;
+        }
+        .highlight {
+            background-color: #FFDAB9;
+            padding: 0.2rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hedy Lamarr: Actress & Inventor</h1>
+    <section>
+        <h2>Early Life</h2>
+        <p>Hedy Lamarr was born Hedwig Eva Maria Kiesler in 1914 in Vienna, Austria. She was the only child of Gertrud "Trude" Kiesler and Emil Kiesler, who worked for Wiener Bankverein and later Creditanstalt-Bankverein.</p>
+        <p>As a child, Lamarr showed interest in acting and technology, often learning about inventions from her father.</p>
+    </section>
+    <section>
+        <h2>Film Career</h2>
+        <p>Lamarr started her film career in Austria and later moved to Hollywood after meeting Louis B. Mayer, head of MGM. She became a film star and acted in movies such as Algiers (1938), Samson and Delilah (1949), and The Female Animal (1958).</p>
+        <p class="highlight">Despite her acting success, Lamarr had a greater passion for technology and inventing.</p>
+    </section>
+    <section>
+        <h2>Inventions & Patents</h2>
+        <p>During World War II, Lamarr, along with George Antheil, co-invented a radio guidance system for Allied torpedoes that used spread spectrum and frequency hopping technology to defeat radio jamming by Axis powers.</p>
+        <p>Lamarr's inventions also include an improved traffic stoplight and a tablet that creates a fizzy drink when dissolved in water.</p>
+    </section>
+    <section>
+        <h2>Legacy</h2>
+        <p>Hedy Lamarr is remembered not only for her acting career but also for her inventions and contributions to technology. She was inducted into the National Inventors Hall of Fame in 2014.</p>
+    </section>
+</body>
+</html>
